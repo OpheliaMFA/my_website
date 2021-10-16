@@ -5,18 +5,18 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner: 
+  banner:
     buttonText: Get Started
     subtitle: |-
-      THIS IS A UNIQUE SITE DESIGNED FOR 
-      SHARING MY STORIES WITH EVERYONE.
-    title: Hello, world, this is Yao Li at (0°, 51°N)
+      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Yao Li
   blog: {}
   contact:
     address:
-      - city: London, W2 1AN
-        country: UK
-        street: Merchant Square
+      - city: City, ST 00000
+        country: Country
+        street: Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Yao Li (MFA2022)
+    copyright: Company Name
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -76,42 +76,43 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: Data Analytics for finance
-    title: MFA2022 
+    subtitle: By HTML5 Up
+    title: Forty
   tiles:
     enable: yes
     showcase:
-      - image: cover1.jpg
-        subtitle: Welcome to my wonderland
-        title: About Me
-        url: blogs/about_me
+      - image: lbs.jpg
+        subtitle: Biography
+        title: About me
+        url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Industry specific
-        title: R Analysis
+        subtitle: Feugiat Amet Tempus
+        title: Risk Return of DJIA Industrial Average
         url: blogs/risk_return
-      - image: cover3.png
-        subtitle: Where I see myself in the future
-        title: Career 
+      - image: pic03.jpg
+        subtitle: Lorem Etiam Nullam
+        title: Magna
         url: blogs/magna
-      - image: cover4.jpg
-        subtitle: Ready for the adventures?
-        title: Trips
+      - image: pic04.jpg
+        subtitle: Nisl Sed Aliquam
+        title: Ipsum
         url: blogs/ipsum
-      - image: cover5.png
-        subtitle: Book, Music and Movies
-        title: Lists
+      - image: pic05.jpg
+        subtitle: Ipsum Dolor Sit Amet
+        title: Consequat
         url: blogs/ipsum
-      - image: cover6.jpg
-        subtitle: Things that shape me to who I am today
-        title: Impressive Experiences
+      - image: pic06.jpg
+        subtitle: Feugiat Amet Tempus
+        title: Etiam
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "This is an individual project of Course Data Analytics for Finance.
-      \r\n    It is also my first time to create a website using R language. \r\n
-      Not only does it provide a good opportunity for me to improve my proficiency in R language,
-      but it also turns to be a fantastic journey to explore myself. \r\n   It is exciting to share 
-      my stories, and hopefully you will meet a unique soul here."
-    title: About this website
+    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
+      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
+      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
+      amet pharetra et feugiat tempus."
+    title: Massa libero
     url: blogs
