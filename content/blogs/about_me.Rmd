@@ -11,11 +11,9 @@ keywords: ""
 slug: about_me # slug is the shorthand URL address... no spaces plz
 title: Things about me
 ---
-***"Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more; it is a tale told by an idiot, full of sound and fury, signifying nothing",*** wrote by Shakespeare in *Macbeth*. What I believe is, as a shadow, I chase the light; at my stage, I am the only and the best player. There are many times we feel that life is meaningless, however, it is our responsibility to tell the tale of our life and define the meaning by ourselves.
 
-Now, let me tell my tale to you:
 
-My name is **Yao Li** and I come from Mainland, China and graduated from Renmin University of China as a finance major. The campus of RUC is very fascinating and I would like to share with you: \n
+\n
 
 ![Renmin University of China](http://www.uniconexed.org/wp-content/uploads/2017/05/Renmin-University.jpg)
 
