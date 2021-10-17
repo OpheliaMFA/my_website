@@ -99,7 +99,7 @@ params:
         url: blogs/
       - image: cover5.png
         subtitle: Book, Music and Movies
-        title: lists
+        title: Lists
         url: blogs/
       - image: cover6.jpg
         subtitle: Things that shape me to who I am today
