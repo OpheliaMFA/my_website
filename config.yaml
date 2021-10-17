@@ -98,9 +98,9 @@ params:
         title: Trips
         url: blogs/
       - image: cover5.png
-        subtitle: Book, Music and Movies
+        subtitle: Book, Music and Movie
         title: Lists
-        url: blogs/
+        url: blogs/lists
       - image: cover6.jpg
         subtitle: Things that shape me to who I am today
         title: Impressive Experiences

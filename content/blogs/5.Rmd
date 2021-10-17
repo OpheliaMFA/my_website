@@ -1,0 +1,54 @@
+---
+categories:  
+- ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
+- ""
+date: "2021-10-16"
+description: Lists of my treasures # the title that will show up once someone gets to this page
+draft: false
+image: p511.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+
+keywords: ""
+slug: lists # slug is the shorthand URL address... no spaces plz
+title: Lists of my treasures
+---
+## Top 10 books for me
+1. Love in the Time of Cholera
+2. Dream of the Red Chamber
+3. One Hundred Years of Solitude
+4. Notre Dame de Paris
+5. Anna Karenina
+6. The Kite Runner
+7. Out of Africa
+8. Outlander
+9. The Moon And Sixpence
+10. No Longer Human
+
+![Image of film *Love in the Time of Cholera*](https://th.bing.com/th/id/R.59951e7e23810a4ec3613a0764595361?rik=b4Mnv0%2bF5KRlZQ&riu=http%3a%2f%2fimage11.m1905.cn%2fuploadfile%2f2014%2f0123%2f20140123034221401771.jpg&ehk=z%2fcFqaAK7N1DctHlwTCjbSxJ1ZXSnjmyLUxFAR3l5AY%3d&risl=&pid=ImgRaw&r=0)
+
+## Top 10 songs for me
+1. The Seasons
+2. Adagio in G
+3. Suite for Solo Cello No.1 in G Major
+4. Waltz in A minor
+5. La Campanella
+6. Le Cygne
+7. Prelude La Fille aux cheveux de lin
+8. Deux Arabesques
+9. Prelude in D-flat major (Raindrop)
+10. Waltz No.1 in E flat
+
+![Jacqueline Mary du Pré](https://th.bing.com/th/id/R.bb69abd5f18af025eb52979b1449a647?rik=O0CbD%2fnL5IRHIg&pid=ImgRaw&r=0)
+
+## Top 10 movies for me
+1. Inception
+2. The Legend of 1900
+3. The Great Gatsby
+4. Dead Poets Society
+5. Life of Pi
+6. Shutter Island
+7. Midnight in Paris
+8. Gone with the wind
+9. The Notebook
+10. One Day
+
+![Image of film *Midnight in Paris*](https://th.bing.com/th/id/R.0475c920372ca6ff8f83996e25d04101?rik=5PtnQfFfPhL%2fMQ&riu=http%3a%2f%2fwww.woodyallenpages.com%2fwp-content%2fuploads%2f2012%2f06%2fallthegang.jpg&ehk=jk2fyPRvTNHzVNE0KsdRAERpd8H2vTcXJo9OyQK9gRs%3d&risl=&pid=ImgRaw&r=0)
