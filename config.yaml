@@ -95,7 +95,7 @@ params:
       - image: cover6.jpg
         subtitle: Things that shape me to who I am today
         title: Impressive Experiences
-        url: blogs/
+        url: blogs/experiences
   two:
     buttonText: Get Started
     enable: yes
