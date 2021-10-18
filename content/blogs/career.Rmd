@@ -5,7 +5,7 @@ categories:
 date: "2021-10-16"
 description: Things about me # the title that will show up once someone gets to this page
 draft: false
-image: p31.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: p3.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: career # slug is the shorthand URL address... no spaces plz
@@ -25,7 +25,7 @@ title: My profile and career plan
 - Jan 2020 - May 2020
 - Hong Kong SAR
 
-![](https://3k7by215ywuf340yi3alsfso-wpengine.netdna-ssl.com/wp-content/uploads/sites/5/2020/05/London-Business-School.jpg)
+![](https://static.student.com/storm-frontend-wp/uploads/2016/03/london-business-school-e1459441684997.jpg)
 
 ## Work Experience
 1. CITIC Securities
@@ -64,9 +64,9 @@ title: My profile and career plan
 - Languages: English (Fluent), Mandarin (Native)
 - Interests: Erhu (Level 10, Highest), classical music, literature, travelling
 
-![](https://www.mccn.edu/images/academics/dnp.jpg)
+![](https://cdn.thegentlemansjournal.com/wp-content/uploads/2016/08/Conductor-900x600-c-center.jpg)
 
-## Career plan
+## Career Plan
 When I read the book *The Old Man and The Sea* in my childhood for the first time, one sentence impressed me and always pops up in my mind since then. It says, ***my big fish must be somewhere***. After I went to university and majored in finance, I gradually found that might have previewed my future career when I look at all the red and green numbers flashing on the screen. From my point of view, a great investor, similar to a great fisherman, is driven by courage, perseverance, and endurance. Dreaming of becoming such an expert, I hope to discover the law of fluctuation in the sea of global financial market as a portfolio manager, enabling more amateur investors to catch their own big fish.
 
 In the short term, I want to continue learning and honing my craft in top investment banks or funds as an research analyst. Through this experience, I hope to gain sector-wide perspectives and develop a mature attitude towards deviation from expectations. To be a competitive candidate, not only will I devote myself to my studies at London Business School to advance my expertise and skills, but I will also seek opportunities to develop precise judgement and professional maturity. I believe that the MFA Programme will lay me a solid foundation for my career, which I already felt from our rigorous curriculums >_< and career development training. 
