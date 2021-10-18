@@ -16,7 +16,7 @@ params:
     address:
       - city: London, NW1 4SA
         country: UK
-        street: Regent Park
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
