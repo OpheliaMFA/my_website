@@ -14,9 +14,9 @@ params:
   blog: {}
   contact:
     address:
-      - city: London, W2 1AN
+      - city: London, NW1 4SA
         country: UK
-        street: Merchant Square
+        street: Regent Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -42,21 +42,12 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/OpheliaMFA
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/yao-ophelia-li-80a802182/
   image: ''
   name: Your name
   navigation:
@@ -96,7 +87,7 @@ params:
       - image: cover4.jpg
         subtitle: Ready for the adventures?
         title: Trips
-        url: blogs/
+        url: blogs/trips
       - image: cover5.png
         subtitle: Book, Music and Movie
         title: Lists
