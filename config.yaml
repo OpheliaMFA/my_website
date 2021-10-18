@@ -83,7 +83,7 @@ params:
       - image: cover3.png
         subtitle: Where I see myself in the future
         title: Career 
-        url: blogs/
+        url: blogs/career
       - image: cover4.jpg
         subtitle: Ready for the adventures?
         title: Trips
