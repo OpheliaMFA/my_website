@@ -72,10 +72,10 @@ params:
         subtitle: Welcome to my wonderland
         title: About Me
         url: blogs/biography
-      - image: pic02.jpg
-        subtitle: Industry specific
-        title: R Analysis
-        url: blogs/risk_return
+      - image: cover2.jpg
+        subtitle: With R Language
+        title: U.S. CPI Analysis 
+        url: blogs/analysis
       - image: cover3.png
         subtitle: Where I see myself in the future
         title: Career 
