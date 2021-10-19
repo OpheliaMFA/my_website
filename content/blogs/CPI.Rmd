@@ -8,7 +8,7 @@ draft: false
 image: p21.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 keywords: ""
 slug: analysis # slug is the shorthand URL address... no spaces plz
-title: How has the CPI and its components changed over the last few years?
+title: How has the CPI and its components changed over the years?
 ---
 - We find CPI components at FRED and pull all of the CPI components into a vector and get all data since January 1, 2000.
 - Since the data is an index with various starting dates, we calculate the 12-month change by using the lag function, which means we are comparing the current month’s value with that 12 months ago lag (value, 12).
