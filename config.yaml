@@ -63,8 +63,8 @@ params:
       - name: Blogs
         url: blogs
     menu: Menu
-    subtitle: Data Analytics for finance
-    title: MFA2022 
+    subtitle: Courage is grace under pressure
+    title: Motto 
   tiles:
     enable: yes
     showcase:
@@ -96,7 +96,7 @@ params:
     buttonText: Get Started
     enable: yes
     subtitle: "This is an individual project of Course Data Analytics for Finance.
-      \r\n    It is also my first time to create a website using R language. \r\n
+      \r\n    It is also my first time to create a website with R language. \r\n
       Not only does it provide a good opportunity for me to improve my proficiency in R language,
       but it also turns to be a fantastic journey to explore myself. \r\n   It is exciting to share 
       my stories, and hopefully you will meet a unique soul here."

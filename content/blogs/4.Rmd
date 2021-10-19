@@ -12,7 +12,7 @@ slug: trips # slug is the shorthand URL address... no spaces plz
 title: Trips
 ---
 ## United States - Shining Snow
-When I was in high school, I took a winter exchange in the United States. After studying in a high school in Minnesota for one month, I took a study tour in the east coast. I was fascinated by the New York City, especially Manhattan. I dreamed of being a NewYorker at that time.
+When I was in high school, I took a winter exchange in the United States. After studying in a high school in Minnesota for one month, I took a study tour in the east coast. I was fascinated by the New York City, especially Manhattan. I dreamed of being a New Yorker at that time.
 
 ![Skiing in Minnesota](https://iknow-pic.cdn.bcebos.com/a5c27d1ed21b0ef4f55c79cecfc451da80cb3eee)
 
@@ -67,7 +67,7 @@ For Mainland, I prefer the natural sights. All mountains and rivers have their o
 
 ![Erhai Lake](https://iknow-pic.cdn.bcebos.com/d058ccbf6c81800adc54689ea33533fa838b47e9)
 
-![Yulong Snow Mountain, almost got devoid when climbing to the top](https://iknow-pic.cdn.bcebos.com/9d82d158ccbf6c814486cd78ae3eb13532fa40e9)
+![Yulong Snow Mountain, almost got starved of oxygen when climbing to the top](https://iknow-pic.cdn.bcebos.com/9d82d158ccbf6c814486cd78ae3eb13532fa40e9)
 
 ![West Lake](https://iknow-pic.cdn.bcebos.com/2cf5e0fe9925bc31e8ece0084cdf8db1ca1370e9)
 
